@@ -20,6 +20,7 @@ function Recent() {
 
         {realtimeApps?.docs.map((doc) => (
           <Activity
+            key={doc.id}
             img={session.user.image}
             name={session.user.name}
             desc="28 April, 2022"

@@ -10,7 +10,7 @@ function Dashboard() {
   const { data: session } = useSession();
   return (
     <div className="">
-        <h1 className="hidden md:inline-flex mt-3 mx-6 text-3xl font-medium">Hi {session.user.name}, it's good to see you!</h1>
+        <h1 className="hidden md:inline-flex mt-3 mx-6 text-3xl font-medium">Hi {session.user.name}, it&apos;s good to see you!</h1>
         <div className="sm:grid xl:grid-cols-3">
             <Appointments />
             <Recent />
