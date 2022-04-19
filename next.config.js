@@ -9,10 +9,11 @@ module.exports = {
   images: {
     domains: [
       "gwinnettlung.com",
-      "scontent-atl3-1.xx.fbcdn.net",
+      "scontent-iad3-1.xx.fbcdn.net",
       "tackedu.netlify.app",
       "platform-lookaside.fbsbx.com",
       "scontent-bos3-1.xx.fbcdn.net",
+      "xx.fbcdn.net",
       "platform-lookaside.fbcdn.com"
     ],
   }
