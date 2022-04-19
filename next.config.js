@@ -13,6 +13,7 @@ module.exports = {
       "tackedu.netlify.app",
       "platform-lookaside.fbsbx.com",
       "scontent-bos3-1.xx.fbcdn.net",
+      "platform-lookaside.fbcdn.com"
     ],
   }
 }
