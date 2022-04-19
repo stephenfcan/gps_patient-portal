@@ -12,6 +12,7 @@ module.exports = {
       "scontent-atl3-1.xx.fbcdn.net",
       "tackedu.netlify.app",
       "platform-lookaside.fbsbx.com",
+      "scontent-bos3-1.xx.fbcdn.net",
     ],
   }
 }
