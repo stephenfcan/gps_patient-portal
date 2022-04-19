@@ -10,7 +10,8 @@ module.exports = {
     domains: [
       "gwinnettlung.com",
       "scontent-atl3-1.xx.fbcdn.net",
-      "tackedu.netlify.app"
+      "tackedu.netlify.app",
+      "platform-lookaside.fbsbx.com",
     ],
   }
 }
