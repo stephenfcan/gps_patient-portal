@@ -3,7 +3,7 @@ import Profile from "./Profile"
 
 function Appointments() {
   return (
-    <div className="mx-6 bg-white shadow-md rounded-xl mt-5">
+    <div className="ml-6 bg-white shadow-md rounded-xl mt-5">
         <h1 className="p-4 text-2xl font-medium border-b">Appointments</h1>
         <Profile img="https://tackedu.netlify.app/anand.png" name="Dr Rajesh R. Jasani MD" desc="Pulmonologist" />
         <div className="flex">
