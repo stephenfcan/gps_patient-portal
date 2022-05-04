@@ -1,8 +1,6 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+## Introduction
 
-## Getting Started
-
-First, run the development server:
+This is a full-stack patient portal featuring appointment creation capabilities built with Next.js, React.js, NextAuth, TailwindCSS, and Google Firebase.
 
 ```bash
 npm run dev
