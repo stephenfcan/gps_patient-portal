@@ -16,7 +16,7 @@ As-Is Workflow
 [GPS Portal New Patient Appointment Workflow.pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636084/GPS.Portal.New.Patient.Appointment.Workflow.pdf)
 
 To-Be Workflow
-[GPS Portal New Patient Appointment Workflow (Copy).pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636093/GPS.Portal.New.Patient.Appointment.Workflow.Copy.pdf)
+[GPS Portal New Patient Appointment Workflow To-Be.pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636093/GPS.Portal.New.Patient.Appointment.Workflow.Copy.pdf)
 
 
 ## Solution
