@@ -14,10 +14,11 @@ Client (Gwinnett Pulmonary & Sleep) required a new front-end for their patient p
 
 As-Is Workflow
 [GPS Portal New Patient Appointment Workflow.pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636084/GPS.Portal.New.Patient.Appointment.Workflow.pdf)
+<img width="983" alt="Screen Shot 2022-05-05 at 5 20 42 PM" src="https://user-images.githubusercontent.com/84104582/167027600-4f4800e4-4a41-444b-84cc-dc344ea33843.png">
 
 To-Be Workflow
 [GPS Portal New Patient Appointment Workflow To-Be.pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636093/GPS.Portal.New.Patient.Appointment.Workflow.Copy.pdf)
-
+<img width="965" alt="Screen Shot 2022-05-05 at 5 19 19 PM" src="https://user-images.githubusercontent.com/84104582/167027421-98ce3fe6-29a2-453d-ae5d-68841fd640b7.png">
 
 ## Solution
 
