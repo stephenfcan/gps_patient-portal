@@ -8,8 +8,17 @@ This is a full-stack patient portal built for Gwinnett Pulmonary & Sleep featuri
 
 ## Problem(s)
 
-The client had a series of issues regarding the patient portal and application process. First, the current Athena patient portal had a poor user interface and experience.
+Client (Gwinnett Pulmonary & Sleep) required a new front-end for their patient portal (originally in Athena EMR) to provide better user experience, add functionality, and improve SEO performance. In addition, the back-end workflow architecture needed to be simplified (multiple databases in Athena, Phreesia, and Klara not communicating with each other when booking an appointment) which required the IT staff to manually input and confirm appointment bookings (process maps shown below).
+
+## Process Maps
+
+As-Is Workflow
+[GPS Portal New Patient Appointment Workflow.pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636084/GPS.Portal.New.Patient.Appointment.Workflow.pdf)
+
+To-Be Workflow
+[GPS Portal New Patient Appointment Workflow (Copy).pdf](https://github.com/stephenfcan/gps_patient-portal/files/8636093/GPS.Portal.New.Patient.Appointment.Workflow.Copy.pdf)
+
 
 ## Solution
 
-f
+Creation of a new mobile-friendly front-end application with a unified data architecture and workflow through ServiceNow.
