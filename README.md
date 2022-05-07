@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a full-stack patient portal built for Gwinnett Pulmonary & Sleep featuring appointment creation capabilities built with Next.js, React.js, NextAuth, TailwindCSS, and Google Firebase.
+This is a full-stack patient portal built for Gwinnett Pulmonary & Sleep featuring appointment creation capabilities. The front-end of the application is built with Next.js, a JavaScript framework which allows for server-side rendering and simple API endpoint creation, and Tailwind CSS, a CSS framework using utility classes to create modern and responsive web applications. The back-end uses Google’s Cloud Firestore database, a real-time, document database (JSON) which is connected to our front-end using Firebase webhooks. Other additions include OAuth integration which enabled the use of Facebook login and token access.
 
 ![Patient Portal Mockup](https://user-images.githubusercontent.com/84104582/167009991-17258aab-b164-423f-9463-d7eaad443fa8.png)
 
@@ -23,3 +23,15 @@ To-Be Workflow
 ## Solution
 
 Creation of a new mobile-friendly front-end application with a unified data architecture and workflow through ServiceNow.
+
+## Demo
+
+The following instructions demonstrate the ability to login/sign-up to the patient potal, to view the primary dashboard, and to create an appointment.
+
+Instructions:
+1. Open the patient portal at https://gps-patient-portal.vercel.app/
+2. To login/sign-up click “Login with Facebook” which will redirect you to either Facebook to sign into Facebook if you haven’t already or to the app homepage. You should now be able to view Appointments Info, Recent Activity, Medications, Current Conditions, and Billing Info via the dashboard.
+3. To create an appointment, navigate to the “Appointments” tab on the left sidebar. You should now see your created appointments, if any.
+4. Click “Schedule an Appointment” and complete the resulting form. After completion, click the Enter key or “Schedule Appointment”. You should now be able to see the confirmed appointment booking fetched by the Firestore database. The home dashboard is also updated on the Recent Activity block to show the newly created appointment.
+
+
