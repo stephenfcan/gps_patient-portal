@@ -22,7 +22,7 @@ To-Be Workflow
 
 ## Solution
 
-Creation of a new mobile-friendly front-end application with a unified data architecture and workflow through ServiceNow.
+The solution for the client was completed in three parts. First, the team created a responsive front-end that revamped the user experience and enabled lightweight server-side rendering. Second, the back-end applications (Athena, Phreesia, Klara) were re-routed in ServiceNow's Automation Engine to allow all new and existing records to be combined into one unified data architecture. Finally, the team were then able to use the ServiceNow database to automatically confirm appointments and update front-end views for both the patient and doctor(s).
 
 ## Demo
 
